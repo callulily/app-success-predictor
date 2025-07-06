@@ -56,3 +56,9 @@ This project analyzes data from Google Play Store apps and their user reviews to
    ```bash
    git clone https://github.com/callulily/app-success-predictor
    cd app-success-predictor
+
+## Contact
+
+Made with 💙 by **Aliya**
+If you have any questions, feel free to reach out via [GitHub](https://github.com/callulily)
+Or via email: karimovna04@mail.ru.
